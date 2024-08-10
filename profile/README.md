@@ -1,4 +1,3 @@
-## Hi there 👋
 # DogCatWorld
 
 홈페이지 소개
@@ -7,7 +6,7 @@
 
 # 🖥️ Tech Stack
 
-| Area       | Tech Stack                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Area       | Tech Stack(수정필요!!)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ---------- |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Frontend   | <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"> <img src="https://img.shields.io/badge/zustand-E9B23E?style=for-the-badge&logo=zustand&logoColor=white"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white"> <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"> |
 | Backend    | <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Data_Jpa-F2F4F9?style=for-the-badge"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/H2-2088FF?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Jacoco-F2F4F9?style=for-the-badge">|
@@ -29,6 +28,13 @@
 
 <br> <br>
 
+# System Architecture
+
+
+# ERD
+
+# Swagger API
+
 # 📈 Monitoring
 
 - promethus, grafana
@@ -36,7 +42,84 @@
 
 <br> <br>
 
+# How to Start
+
+.env
+```
+MYSQL_ROOT_HOST=
+MYSQL_DATABASE=
+MYSQL_PASSWORD=
+MYSQL_PORT=
+
+# 로컬 mysql
+MYSQL_ROOT_USER=root
+MYSQL_ROOT_PASSWORD=
+
+SPRING_DATASOURCE_USERNAME=root
+SPRING_REDIS_HOST=redis
+SPRING_REDIS_PORT=6379
+
+RDS_DATABASE=
+
+```
+
+### backend
+src/main/resoureces/application-secret.yml
+```
+GET_COORDINATE:
+  
+OPEN_API_SECRETKEY:
+  
+MYSQL_ROOT_USER:
+  
+MYSQL_ROOT_PASSWORD:
+
+MYSQL_DATABASE:
+  
+
+
+cloud:
+  aws:
+    s3:
+      bucket: 
+    stack.auto: false
+    region.static: 
+    credentials:
+      accessKey: 
+      secretKey: 
+      
+
+cors:
+  allowed:
+    origin1: "http://localhost:5173"
+    origin2: "https://43.203.69.129:5173"
+    origin3: "https://www.dogcatworld.site:443"
+    origin4: "https://dogcatworld.site"          
+      
+```
+
+
+### frontend
+
+abandonedpets/.env
+```
+VITE_APP_KAKAOMAP_KEY=
+```
+
+abandonedpets/.env.production
+```
+VITE_APP_API_URL_SSL=https://api.dogcatworld.site
+VITE_APP_API_URL=http://api.dogcatworld.site
+```
+
+abandonedpets/.env.development
+```
+VITE_APP_API_URL="http://localhost:8080"
+```
+
+
 # 👨‍👩‍👧‍👦 Contributors
+
 
 ## Backend
 
