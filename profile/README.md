@@ -1,16 +1,24 @@
-# DogCatWorld
+# 댕냥세상
 
-홈페이지 소개
+### 유기견 입/분양 및 장례식장 소개 서비스
+> “댕냥세상”은 유기견 입양과 분양, 그리고 반려동물 장례식장 소개를 제공하는 따뜻한 공간입니다. </br>
+> 사랑을 필요로 하는 유기견들에게 새로운 가족을 찾아주고, 반려동물의 마지막 길을 아름답게 배웅할 수 있도록 돕습니다. </br>
+> 소중한 생명과의 만남과 이별을 함께하는, 당신의 든든한 반려동물 파트너, “댕냥세상”입니다.
 
-<br> <br>
+<br>
+
+--- 
+<br>
 
 # 🖥️ Tech Stack
 
 | Area       | Tech Stack(수정필요!!)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ---------- |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Frontend   | <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"> <img src="https://img.shields.io/badge/zustand-E9B23E?style=for-the-badge&logo=zustand&logoColor=white"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white"> <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"> |
-| Backend    | <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Data_Jpa-F2F4F9?style=for-the-badge"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/H2-2088FF?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Jacoco-F2F4F9?style=for-the-badge">|
-| DevOps     | <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=github actions&logoColor=white"> <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white"> <img src="https://img.shields.io/badge/elastic stack-005571?style=for-the-badge&logo=elastic stack&logoColor=white"> <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"> <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"> |
+| Frontend   | <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"> <img src="https://img.shields.io/badge/zustand-E9B23E?style=for-the-badge&logo=zustand&logoColor=white"> <img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"> <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white"> <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"> |
+| Backend    | <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Data_Jpa-F2F4F9?style=for-the-badge"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/amazon rds-527FFF?style=for-the-badge&logo=amazon rds&logoColor=white"> <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"> |
+| DevOps     |  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=github actions&logoColor=white"> <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">  <img src="https://img.shields.io/badge/aws elastic load balancing-8C4FFF?style=for-the-badge&logo=aws elastic load balancing&logoColor=white"> <img src="https://img.shields.io/badge/aws lambda-FF9900?style=for-the-badge&logo=aws lambda&logoColor=white">  <img src="https://img.shields.io/badge/aws cloudfront-3448C5?style=for-the-badge&logo=aws cloudfront&logoColor=white"> |
+| Monitoring     |   <img src="https://img.shields.io/badge/ELK STACK-005571?style=for-the-badge&logo=elastic&logoColor=white"> <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"> |
+| Etc    |  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/zoom-0B5CFF?style=for-the-badge&logo=zoom&logoColor=white"> <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white">|
 
 <br> <br>
 
@@ -30,15 +38,30 @@
 
 # System Architecture
 
+<img width="966" alt="Untitled" src="https://github.com/user-attachments/assets/e02c3ab8-35e6-4bab-9b1b-a7386a4c29df">
+
 
 # ERD
 
+![U33ntitled](https://github.com/user-attachments/assets/77ac0743-13ff-449a-80b0-b8ecb2cbad32)
+
+
 # Swagger API
+
+<img width="1457" alt="스크린샷 2024-08-12 오후 11 16 06" src="https://github.com/user-attachments/assets/c216a084-1dcb-4ade-9d55-a235c5578121">
+<img width="1461" alt="스크린샷 2024-08-12 오후 11 16 47" src="https://github.com/user-attachments/assets/d72b9d47-bf65-4d3c-a21f-9f875e4e5a33">
+
 
 # 📈 Monitoring
 
 - promethus, grafana
+
+<img width="1461" alt="Untitl22ed" src="https://github.com/user-attachments/assets/313f2fc4-2869-47ef-82d2-0380df380205">
+
 - ELK
+  
+<img width="1467" alt="Untitle2d" src="https://github.com/user-attachments/assets/578fb18d-59cb-4071-9276-59d862c0082d">
+
 
 <br> <br>
 
