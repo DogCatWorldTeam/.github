@@ -34,6 +34,18 @@
   </tbody>
 </table>
 
+<p align="center">  
+  <img width="1616" alt="image" src="https://github.com/user-attachments/assets/92b7ee74-9a8f-4e3b-8ac2-095500b4cc08"> </br></br></br></br>
+  <img src="https://github.com/user-attachments/assets/56277c66-25a6-4e5d-8209-2873f22020c6" width="1920" />  </br></br></br></br>
+  <img src="https://github.com/user-attachments/assets/7541ade6-50a0-4547-8753-8bac8bced7c9" width="1920" />  </br></br></br></br>
+  <img src="https://github.com/user-attachments/assets/02edfe8e-6516-4578-8981-3441f2a0671f" width="1920" />  </br></br></br></br>
+  <img src="" width="1920" />  </br></br></br></br>
+  <img width="1616" alt="image" src="https://github.com/user-attachments/assets/80d19c0a-5913-4aae-90fa-09e334153f01"> </br></br></br></br>
+</p>
+
+
+
+
 <br> <br>
 
 # System Architecture
