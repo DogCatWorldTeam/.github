@@ -26,13 +26,12 @@
 
 ![image](https://github.com/user-attachments/assets/db5a6e4b-63fd-4cda-b4dd-bc3a3ea7f888)
 
-<table style="text-align: center; width: 1000px;">
-  <tbody>
-    <tr>
-      <th style="text-align: center;">데모영상</th>
-    </tr>
-  </tbody>
-</table>
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/b1ae9c22-9292-4ba1-afc3-c4195dc9aad8" target="_blank">
+    <button style="padding: 10px 20px; font-size: 16px; cursor: pointer;">데모 영상 </button> </br></br>
+  </a>
+</p>
 
 <p align="center">  
   <img width="1616" alt="image" src="https://github.com/user-attachments/assets/92b7ee74-9a8f-4e3b-8ac2-095500b4cc08"> </br></br></br></br>
@@ -42,6 +41,14 @@
   <img src="https://github.com/user-attachments/assets/f815863d-6aa1-4453-88b7-ac5e2cc8856c" width="1920" />  </br></br></br></br>
   <img width="1616" alt="image" src="https://github.com/user-attachments/assets/80d19c0a-5913-4aae-90fa-09e334153f01"> </br></br></br></br>
 </p>
+
+
+
+
+
+
+
+
 
 
 
