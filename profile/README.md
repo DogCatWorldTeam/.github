@@ -1,4 +1,12 @@
-# 댕냥세상
+# 댕냥세상 
+
+<br>
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/7bac398c-e678-4d8b-8ae3-d83378a95ae8" width="400" />
+</p>
+
+<br>
 
 ### 유기견 입/분양 및 장례식장 소개 서비스
 > “댕냥세상”은 유기견 입양과 분양, 그리고 반려동물 장례식장 소개를 제공하는 따뜻한 공간입니다. </br>
@@ -23,9 +31,6 @@
 <br> <br>
 
 # Features
-
-![image](https://github.com/user-attachments/assets/db5a6e4b-63fd-4cda-b4dd-bc3a3ea7f888)
-
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/b1ae9c22-9292-4ba1-afc3-c4195dc9aad8" target="_blank">
