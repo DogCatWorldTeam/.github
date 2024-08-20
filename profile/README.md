@@ -45,6 +45,7 @@
   <img src="https://github.com/user-attachments/assets/02edfe8e-6516-4578-8981-3441f2a0671f" width="1920" />  </br></br></br></br>
   <img src="https://github.com/user-attachments/assets/f815863d-6aa1-4453-88b7-ac5e2cc8856c" width="1920" />  </br></br></br></br>
   <img width="1616" alt="image" src="https://github.com/user-attachments/assets/80d19c0a-5913-4aae-90fa-09e334153f01"> </br></br>
+  <img width="1616" src="https://github.com/user-attachments/assets/df0d6fe6-76b1-4ff3-881f-71f085128fc6" alt="채팅 gif" />
 </p>
 
 ---
@@ -230,8 +231,8 @@ VITE_APP_API_URL="http://localhost:8080"
         </tr>
         <tr>
             <td width="100" align="center">
-                <a href="https://github.com/gyeong3un2">
-                    <img src="http://img.shields.io/badge/gyeong3un2-green?style=social&logo=github"/>
+                <a href="https://github.com/JunYoung02">
+                    <img src="http://img.shields.io/badge/JunYoung02-green?style=social&logo=github"/>
                 </a>
             </td>
         </tr>
