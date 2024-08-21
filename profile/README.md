@@ -129,10 +129,10 @@ cloud:
 
 cors:
   allowed:
-    origin1: "http://localhost:5173"
-    origin2: "https://43.203.69.129:5173"
-    origin3: "https://www.dogcatworld.site:443"
-    origin4: "https://dogcatworld.site"          
+    origin1:
+    origin2:
+    origin3:
+    origin4:      
       
 ```
 
